@@ -1,0 +1,59 @@
+Terms of Service for codinLake()
+
+Last Updated: 06/01/2025
+
+1. Acceptance of Terms
+By using codinLake() (the "Bot"), you agree to these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the Bot.
+
+2. Description of the Service
+The Bot is a software application designed to provide [brief description of the bot's functionality, e.g., "fun commands, moderation tools, and interactive features"] within the Discord platform.
+
+3. User Responsibilities
+Users of the Bot must adhere to the following:
+
+Comply with Discord’s Terms of Service and Community Guidelines.
+
+Avoid using the Bot for unlawful or malicious activities, including harassment, spamming, or hacking.
+
+Do not attempt to exploit, reverse-engineer, or tamper with the Bot.
+
+4. Data Collection and Privacy
+The Bot may collect and process the following data:
+
+User IDs, server IDs, message content, and command usage statistics for functionality purposes.
+
+No personal or sensitive information is intentionally collected.
+
+Data may be stored temporarily for the purpose of providing services and features.
+
+Refer to the [Privacy Policy] for detailed information on data handling and protection.
+
+5. Limitation of Liability
+The Bot is provided "as is" without warranties of any kind. The developers of the Bot are not liable for:
+
+Any damages resulting from the use or inability to use the Bot.
+
+Actions taken based on information provided by the Bot.
+
+6. Modification or Termination of Service
+The developers reserve the right to:
+
+Modify, suspend, or terminate the Bot or its services at any time without notice.
+
+Update these Terms at their discretion. Continued use of the Bot constitutes acceptance of the updated Terms.
+
+7. Intellectual Property
+The Bot and its underlying code, design, and features are the intellectual property of codinLake(). Users may not copy, reproduce, or distribute the Bot’s code or features without explicit permission.
+
+8. Third-Party Integrations
+The Bot may interact with third-party services. The developers are not responsible for the content, policies, or practices of these third-party services.
+
+9. Governing Law
+These Terms are governed by the laws of Poland. Any disputes arising from these Terms shall be resolved in the courts of Poland.
+
+10. Contact Information
+For questions, concerns, or support, contact diratix@mcadmin.me.
+
+
+
+By using the Bot, you confirm that you have read, understood, and agree to these Terms of Service.
